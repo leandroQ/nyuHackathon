@@ -131,7 +131,7 @@
 	<div id="section-about">
 		<div class="container">
 			<div class="four columns">
-				<p class="desc">Loopathon is an annual series of relay runs to raise awareness for cancer.</p>
+				<p class="desc">SnipIt is a social media event aggregator focused around students.</p>
 
 				<img src="images/loop.png" alt="" />
 			</div><!-- // .four -->
