@@ -1,0 +1,13 @@
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\bin\Debug\resources.pri
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\bin\Debug\AppxManifest.xml
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\bin\Debug\SnipIt2.0.build.appxrecipe
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\bld\Debug\priconfig.xml.intermediate
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\bld\Debug\layout.resfiles.intermediate
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\bld\Debug\resources.resfiles.intermediate
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\bld\Debug\pri.resfiles.intermediate
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\bld\Debug\priconfig.xml
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\bld\Debug\layout.resfiles
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\bld\Debug\resources.resfiles
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\bld\Debug\pri.resfiles
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\bld\Debug\LanguageQualifiers.txt
+C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\bld\Debug\ProjectArchitectures.txt
