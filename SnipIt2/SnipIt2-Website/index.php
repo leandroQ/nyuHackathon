@@ -8,8 +8,8 @@
 	<!-- Basic Page Needs
 	================================================== -->
 	<meta charset="utf-8">
-	<title>Eventcamp 2013</title>
-	<meta name="description" content=">Eventcamp 2013 is a simple page HTML template for events and conferences.">
+	<title>SnipIt - Home</title>
+	<meta name="description" content=">SnipIt is a social media event aggregator for students.">
 	<meta name="author" content="Your Name Here">
 	
 	<!-- Mobile Specific Metas
@@ -62,7 +62,7 @@
 						<ul id="nav" class="nav">
 							<li class="menu-item"><a href="#section-event">Home</a></li>
 							<li class="menu-item"><a href="#section-about">About</a></li>
-							<li class="menu-item"><a href="#section-fees">Fees</a></li>
+							<li class="menu-item"><a href="#section-fees">Events</a></li>
 							<li class="menu-item"><a href="#section-news">News</a></li>
 							<li class="menu-item"><a href="#section-faq">FAQs</a></li>
 							<li class="menu-item"><a href="#section-register">Registration</a></li>
@@ -152,17 +152,17 @@
 	<div id="section-fees">
 		<div class="container">
 			<div class="sixteen columns">
-				<h2>Fees</h2>
-				<p class="desc">Reserve your spot in early spring</p>
+				<h2>Events</h2>
+				<p class="desc">Organize your events the way you want to!</p>
 			</div><!-- // .sixteen -->
 
 			<div class="clear"></div>
 
 			<div class="six columns">
 				<div class="item">
-					<span class="price">$40</span>
+					<span class="price" style="background: #111 url('./images/calendar40.png') no-repeat center 0; width:100%;">Hello</span>
 					<span class="date">if registered by <span class="font-color-white">January 14</span></span>
-					<p>Aenean quis nisl eros. Suspendisse potenti. Phasellus at ligula nec leo accumsan eleifend. </p>
+					<p>You can subscribe to events that you want to go to and filter out all of the events you don't want.</p>
 				</div><!-- // .item -->
 			</div><!-- // .six -->
 
@@ -407,9 +407,9 @@
 
 			<div class="eight columns">
 				<ul id="social">
-					<li><a href="http://www.facebook.com" title=""><img src="images/icons/icon_facebook.png" alt="Facebook" /></a></li>
-					<li><a href="http://www.twitter.com" title=""><img src="images/icons/icon_twitter.png" alt="Twitter" /></a></li>
-					<li><a href="http://www.youtube.com" title=""><img src="images/icons/icon_youtube.png" alt="Youtube" /></a></li>
+					<li><a href="http://www.facebook.com" title=""><img src="images/icon_facebook.png" alt="Facebook" /></a></li>
+					<li><a href="http://www.twitter.com" title=""><img src="images/icon_twitter.png" alt="Twitter" /></a></li>
+					<li><a href="http://www.youtube.com" title=""><img src="images/icon_youtube.png" alt="Youtube" /></a></li>
 				</ul><!-- // ul#social -->
 			</div><!-- // .eight -->
 
