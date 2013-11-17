@@ -1,1 +1,1 @@
-C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\SnipIt2.0.jsproj;neutral
+C:\Users\Wayne\Documents\GitHub\nyuHackathon\SnipIt2.0\SnipIt2.0\SnipIt2.0.jsproj;neutral

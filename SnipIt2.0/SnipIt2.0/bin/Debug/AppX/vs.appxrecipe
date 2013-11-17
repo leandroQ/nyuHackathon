@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>DELL-XPS-14Z</Machine>
-    <WindowsUser>Leandro</WindowsUser>
+    <Machine>WIN8PRORTMDEV</Machine>
+    <WindowsUser>Wayne</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <RegisteredManifestChecksum>BEBFDB98A0C4C694F72BB2051E55245007B4A668EA0A159AA675B2E64E31F37F</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>9215D810BE8CAA4FE4365C2E36B0DD3EDD943A177E9B82E3555DA63799086AB7</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>43180770-6ab1-495c-bd49-1fcf27ee9dca_1.0.0.0_neutral__sbfkf8w9hwaa2</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>43180770-6ab1-495c-bd49-1fcf27ee9dca_sbfkf8w9hwaa2!App</RegisteredUserModeAppID>
     <RegisteredPackageID>43180770-6ab1-495c-bd49-1fcf27ee9dca</RegisteredPackageID>
@@ -13,108 +13,108 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Wayne\Documents\GitHub\nyuHackathon\SnipIt2.0\SnipIt2.0\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-11-17T00:07:55.944</Modified>
+      <Modified>2013-11-17T07:11:02.686</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\css\default.css">
+    <AppxPackagedFile Include="C:\Users\Wayne\Documents\GitHub\nyuHackathon\SnipIt2.0\SnipIt2.0\css\default.css">
       <PackagePath>css\default.css</PackagePath>
-      <Modified>2013-11-16T20:09:45.097</Modified>
+      <Modified>2013-11-17T07:09:01.250</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\pages\itemDetail\itemDetail.css">
+    <AppxPackagedFile Include="C:\Users\Wayne\Documents\GitHub\nyuHackathon\SnipIt2.0\SnipIt2.0\pages\itemDetail\itemDetail.css">
       <PackagePath>pages\itemDetail\itemDetail.css</PackagePath>
-      <Modified>2013-11-16T20:09:45.104</Modified>
+      <Modified>2013-11-17T07:09:01.430</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\pages\groupDetail\groupDetail.css">
+    <AppxPackagedFile Include="C:\Users\Wayne\Documents\GitHub\nyuHackathon\SnipIt2.0\SnipIt2.0\pages\groupDetail\groupDetail.css">
       <PackagePath>pages\groupDetail\groupDetail.css</PackagePath>
-      <Modified>2013-11-16T20:09:45.090</Modified>
+      <Modified>2013-11-17T07:09:01.408</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\pages\groupedItems\groupedItems.css">
+    <AppxPackagedFile Include="C:\Users\Wayne\Documents\GitHub\nyuHackathon\SnipIt2.0\SnipIt2.0\pages\groupedItems\groupedItems.css">
       <PackagePath>pages\groupedItems\groupedItems.css</PackagePath>
-      <Modified>2013-11-16T20:09:45.114</Modified>
+      <Modified>2013-11-17T07:09:01.420</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\images\logo.png">
+    <AppxPackagedFile Include="C:\Users\Wayne\Documents\GitHub\nyuHackathon\SnipIt2.0\SnipIt2.0\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-11-05T23:39:58.000</Modified>
+      <Modified>2013-11-17T07:09:01.262</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\images\smalllogo.png">
+    <AppxPackagedFile Include="C:\Users\Wayne\Documents\GitHub\nyuHackathon\SnipIt2.0\SnipIt2.0\images\smalllogo.png">
       <PackagePath>images\smalllogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-11-05T23:39:58.000</Modified>
+      <Modified>2013-11-17T07:09:01.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\images\splashscreen.png">
+    <AppxPackagedFile Include="C:\Users\Wayne\Documents\GitHub\nyuHackathon\SnipIt2.0\SnipIt2.0\images\splashscreen.png">
       <PackagePath>images\splashscreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-11-05T23:39:58.000</Modified>
+      <Modified>2013-11-17T07:09:01.270</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\images\storelogo.png">
+    <AppxPackagedFile Include="C:\Users\Wayne\Documents\GitHub\nyuHackathon\SnipIt2.0\SnipIt2.0\images\storelogo.png">
       <PackagePath>images\storelogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-11-05T23:39:58.000</Modified>
+      <Modified>2013-11-17T07:09:01.273</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\js\apiglobals.js">
+    <AppxPackagedFile Include="C:\Users\Wayne\Documents\GitHub\nyuHackathon\SnipIt2.0\SnipIt2.0\js\apiglobals.js">
       <PackagePath>js\apiglobals.js</PackagePath>
-      <Modified>2013-11-16T21:56:29.347</Modified>
+      <Modified>2013-11-17T07:09:01.277</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\js\data.js">
+    <AppxPackagedFile Include="C:\Users\Wayne\Documents\GitHub\nyuHackathon\SnipIt2.0\SnipIt2.0\js\data.js">
       <PackagePath>js\data.js</PackagePath>
-      <Modified>2013-11-17T04:27:15.635</Modified>
+      <Modified>2013-11-17T07:40:35.075</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\js\default.js">
+    <AppxPackagedFile Include="C:\Users\Wayne\Documents\GitHub\nyuHackathon\SnipIt2.0\SnipIt2.0\js\default.js">
       <PackagePath>js\default.js</PackagePath>
-      <Modified>2013-11-17T03:14:02.621</Modified>
+      <Modified>2013-11-17T07:09:01.305</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\js\foursquare.js">
+    <AppxPackagedFile Include="C:\Users\Wayne\Documents\GitHub\nyuHackathon\SnipIt2.0\SnipIt2.0\js\foursquare.js">
       <PackagePath>js\foursquare.js</PackagePath>
-      <Modified>2013-11-17T02:54:03.944</Modified>
+      <Modified>2013-11-17T07:53:01.829</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\js\jquery.js">
+    <AppxPackagedFile Include="C:\Users\Wayne\Documents\GitHub\nyuHackathon\SnipIt2.0\SnipIt2.0\js\jquery.js">
       <PackagePath>js\jquery.js</PackagePath>
-      <Modified>2013-11-16T21:56:57.707</Modified>
+      <Modified>2013-11-17T07:54:36.758</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\js\navigator.js">
+    <AppxPackagedFile Include="C:\Users\Wayne\Documents\GitHub\nyuHackathon\SnipIt2.0\SnipIt2.0\js\navigator.js">
       <PackagePath>js\navigator.js</PackagePath>
-      <Modified>2013-11-16T20:09:45.189</Modified>
+      <Modified>2013-11-17T07:09:01.391</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\pages\groupedItems\trending.js">
+    <AppxPackagedFile Include="C:\Users\Wayne\Documents\GitHub\nyuHackathon\SnipIt2.0\SnipIt2.0\pages\groupedItems\trending.js">
       <PackagePath>pages\groupedItems\trending.js</PackagePath>
-      <Modified>2013-11-17T00:51:29.387</Modified>
+      <Modified>2013-11-17T07:09:01.427</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\pages\itemDetail\itemDetail.js">
+    <AppxPackagedFile Include="C:\Users\Wayne\Documents\GitHub\nyuHackathon\SnipIt2.0\SnipIt2.0\pages\itemDetail\itemDetail.js">
       <PackagePath>pages\itemDetail\itemDetail.js</PackagePath>
-      <Modified>2013-11-16T20:09:45.229</Modified>
+      <Modified>2013-11-17T07:09:01.437</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\pages\groupDetail\groupDetail.js">
+    <AppxPackagedFile Include="C:\Users\Wayne\Documents\GitHub\nyuHackathon\SnipIt2.0\SnipIt2.0\pages\groupDetail\groupDetail.js">
       <PackagePath>pages\groupDetail\groupDetail.js</PackagePath>
-      <Modified>2013-11-17T00:56:54.884</Modified>
+      <Modified>2013-11-17T07:09:01.412</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\pages\groupedItems\groupedItems.js">
+    <AppxPackagedFile Include="C:\Users\Wayne\Documents\GitHub\nyuHackathon\SnipIt2.0\SnipIt2.0\pages\groupedItems\groupedItems.js">
       <PackagePath>pages\groupedItems\groupedItems.js</PackagePath>
-      <Modified>2013-11-17T00:56:22.869</Modified>
+      <Modified>2013-11-17T07:09:01.425</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\pages\itemDetail\itemDetail.html">
+    <AppxPackagedFile Include="C:\Users\Wayne\Documents\GitHub\nyuHackathon\SnipIt2.0\SnipIt2.0\pages\itemDetail\itemDetail.html">
       <PackagePath>pages\itemDetail\itemDetail.html</PackagePath>
-      <Modified>2013-11-16T20:09:45.125</Modified>
+      <Modified>2013-11-17T07:09:01.434</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\pages\groupDetail\groupDetail.html">
+    <AppxPackagedFile Include="C:\Users\Wayne\Documents\GitHub\nyuHackathon\SnipIt2.0\SnipIt2.0\pages\groupDetail\groupDetail.html">
       <PackagePath>pages\groupDetail\groupDetail.html</PackagePath>
-      <Modified>2013-11-16T20:09:45.120</Modified>
+      <Modified>2013-11-17T07:09:01.410</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\pages\groupedItems\groupedItems.html">
+    <AppxPackagedFile Include="C:\Users\Wayne\Documents\GitHub\nyuHackathon\SnipIt2.0\SnipIt2.0\pages\groupedItems\groupedItems.html">
       <PackagePath>pages\groupedItems\groupedItems.html</PackagePath>
-      <Modified>2013-11-17T03:25:22.069</Modified>
+      <Modified>2013-11-17T07:09:01.423</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\default.html">
+    <AppxPackagedFile Include="C:\Users\Wayne\Documents\GitHub\nyuHackathon\SnipIt2.0\SnipIt2.0\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2013-11-17T03:14:04.885</Modified>
+      <Modified>2013-11-17T07:56:16.965</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leandro\Documents\Visual Studio 2012\Projects\SnipIt2.0\SnipIt2.0\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Wayne\Documents\GitHub\nyuHackathon\SnipIt2.0\SnipIt2.0\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-11-17T00:07:55.389</Modified>
+      <Modified>2013-11-17T07:11:02.339</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
